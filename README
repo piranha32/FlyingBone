@@ -1,0 +1,6 @@
+BeagleBone prototyping board.
+
+Directory 'kicad' contains design files.
+Directory 'gerber' contains gerber files prepared for sending to the board house.
+
+
