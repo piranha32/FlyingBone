@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Wed 16 Nov 2011 12:09:53 AM EST
+EESchema Schematic File Version 2  date Wed 23 May 2012 07:07:57 PM EDT
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,6 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:FlyingBone-cache
 LIBS:FlyingBone-cache
 EELAYER 25  0
 EELAYER END

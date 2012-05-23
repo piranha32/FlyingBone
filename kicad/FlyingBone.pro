@@ -1,6 +1,6 @@
-update=Wed 16 Nov 2011 12:10:35 AM EST
+update=Wed 23 May 2012 07:39:36 PM EDT
 version=1
-last_client=cvpcb
+last_client=eeschema
 [general]
 version=1
 [pcbnew]
@@ -34,9 +34,14 @@ LibName10=pga_sockets
 LibName11=valves
 LibName12=FlyingBone-footprints
 LibDir=../../lib
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [eeschema]
 version=1
-LibDir=../../lib
+LibDir=../lib
 NetFmt=1
 HPGLSpd=20
 HPGLDm=15
@@ -97,8 +102,4 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=FlyingBone-cache
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+LibName32=beaglebone
